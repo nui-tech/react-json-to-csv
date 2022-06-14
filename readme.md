@@ -5,8 +5,6 @@ A react button component to easily generate csv downloads of your json data. ✨
 [![npm downloads](https://img.shields.io/npm/dm/react-json-to-csv.svg)](https://www.npmjs.com/package/react-json-to-csv)&nbsp;
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io)
 
-## Live Demo 
-[https://react-json-to-csv.coston.io](https://react-json-to-csv.coston.io)
 
 ## Features
 - Create a csv download from json data
@@ -18,16 +16,13 @@ A react button component to easily generate csv downloads of your json data. ✨
 
 Install with npm:
 ```sh
-npm i react-json-to-csv
+npm i @nuitech/react-json-to-csv
 ```
-Or load from a CDN:
-```html
-<script src="https://cdn.jsdelivr.net/npm/react-json-to-csv" />
-```
+
 
 ## Example Usage
 ```jsx
-import CsvDownload from 'react-json-to-csv'
+import CsvDownload from '@nuitech/react-json-to-csv'
 ...
 
 <CsvDownload data={mockData} />

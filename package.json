@@ -1,6 +1,6 @@
 {
   "name": "@nuitech/react-json-to-csv",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A react button component to easily generate csv downloads of your json data. (With type support)",
   "main": "dist/index.js",
   "files": [
