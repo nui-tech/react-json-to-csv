@@ -1,19 +1,19 @@
 {
   "name": "@nuitech/react-json-to-csv",
   "version": "1.0.5",
-  "description": "A react button component to easily generate csv downloads of your json data.",
+  "description": "A react button component to easily generate csv downloads of your json data. (With type support)",
   "main": "dist/index.js",
   "files": [
     "dist/index.js"
   ],
-  "author": "Coston Perkins <coston.perkins@ua.edu> (https://coston.io)",
-  "homepage": "https://github.com/coston/react-json-to-csv",
+  "author": "nui-tech",
+  "homepage": "https://github.com/nui-tech/react-json-to-csv",
   "repository": {
     "type": "git",
-    "url": "https://github.com/coston/react-json-to-csv.git"
+    "url": "https://github.com/nui-tech/react-json-to-csv.git"
   },
   "bugs": {
-    "url": "https://github.com/coston/react-json-to-csv/issues"
+    "url": "https://github.com/nui-tech/react-json-to-csv/issues"
   },
   "license": "MIT",
   "scripts": {
